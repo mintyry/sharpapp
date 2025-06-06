@@ -1,0 +1,15 @@
+/Users/ryryan/bootcamp/extra work/sharpapp/bin/Debug/net9.0/sharpapp
+/Users/ryryan/bootcamp/extra work/sharpapp/bin/Debug/net9.0/sharpapp.deps.json
+/Users/ryryan/bootcamp/extra work/sharpapp/bin/Debug/net9.0/sharpapp.runtimeconfig.json
+/Users/ryryan/bootcamp/extra work/sharpapp/bin/Debug/net9.0/sharpapp.dll
+/Users/ryryan/bootcamp/extra work/sharpapp/bin/Debug/net9.0/sharpapp.pdb
+/Users/ryryan/bootcamp/extra work/sharpapp/obj/Debug/net9.0/sharpapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryryan/bootcamp/extra work/sharpapp/obj/Debug/net9.0/sharpapp.AssemblyInfoInputs.cache
+/Users/ryryan/bootcamp/extra work/sharpapp/obj/Debug/net9.0/sharpapp.AssemblyInfo.cs
+/Users/ryryan/bootcamp/extra work/sharpapp/obj/Debug/net9.0/sharpapp.csproj.CoreCompileInputs.cache
+/Users/ryryan/bootcamp/extra work/sharpapp/obj/Debug/net9.0/sharpapp.sourcelink.json
+/Users/ryryan/bootcamp/extra work/sharpapp/obj/Debug/net9.0/sharpapp.dll
+/Users/ryryan/bootcamp/extra work/sharpapp/obj/Debug/net9.0/refint/sharpapp.dll
+/Users/ryryan/bootcamp/extra work/sharpapp/obj/Debug/net9.0/sharpapp.pdb
+/Users/ryryan/bootcamp/extra work/sharpapp/obj/Debug/net9.0/sharpapp.genruntimeconfig.cache
+/Users/ryryan/bootcamp/extra work/sharpapp/obj/Debug/net9.0/ref/sharpapp.dll
